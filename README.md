@@ -1,4 +1,4 @@
-# 🎧 Spotify Data Analysis
+#  Spotify Data Analysis
 
 **Author:** *Kalash Dwivedi*  
 **Notebook:** `Spotify Data Analysis.ipynb`  
