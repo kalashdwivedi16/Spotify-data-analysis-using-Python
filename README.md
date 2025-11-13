@@ -3,7 +3,6 @@
 **Author:** *Kalash Dwivedi*  
 **Notebook:** `Spotify Data Analysis.ipynb`  
 **Datasets:** `tracks.csv`, `SpotifyFeatures.csv`  
-**Last updated:** *November 14, 2025*
 
 ---
 
